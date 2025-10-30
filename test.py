@@ -13,3 +13,7 @@ if __name__ == "__main__":
     else:
         print_fib_series(n)
         
+
+"""Adding documrntation string to demonstrate changes."""
+# This file contains a simple Fibonacci implementation and a small CLI.
+# Below are placeholder comments to demonstrate adding 20 comment lines.
