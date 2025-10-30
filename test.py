@@ -20,6 +20,4 @@ if __name__ == "__main__":
         print("Invalid input. Please enter a valid integer.")
     else:
         print_fib_series(n)
-
-
-#write few test cases
+        
