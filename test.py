@@ -15,8 +15,11 @@ def print_fib_series(terms: int) -> None:
 
 if __name__ == "__main__":
     try:
-        n = int(input("Enter number of terms: ").strip())
+        n = int(input("Enter no of terms: ").strip())
     except ValueError:
-        print("Invalid input. Please enter an integer.")
+        print("Invalid input. Please enter a valid integer.")
     else:
         print_fib_series(n)
+
+
+#write few test cases
