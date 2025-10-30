@@ -22,4 +22,4 @@ if __name__ == "__main__":
         print_fib_series(n)
 
 
-#write few test cases
+#write few test cases okay?
